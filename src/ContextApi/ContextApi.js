@@ -522,6 +522,7 @@ const ContextApi=(props)=>{
         Category:'Home',
         Title:'Ganapath',
         image:'https://cdn.bollywoodbubble.com/wp-content/uploads/2022/06/ganapath-release-date-1.jpg',
+          Description:'Part 1 is an action thriller movie written and directed by Vikas Bahl. The movie stars Tiger Shroff, Kriti Sanon, and Amitabh Bachchan in the main lead roles, along with Adi Chugh, Elli Avrram, Faisal Mohammed, Rahman, and many others in supporting roles. Sudhakar Reddy Yakkanti handled the cinematography, and A. Sreekar Prasad editted this film. The soundtrack and background music for this movie were composed by Sanchit and Ankit Balhara. Vashu Bhagnani, Vikas Bahl, and Jackky Bhagnani produced this film under the banners of Pooja Entertainment and Good Co.',
       },
       {
         id:72,
