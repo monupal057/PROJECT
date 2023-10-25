@@ -92,10 +92,10 @@ function Detailpage(){
                   height="250px"
                   width="390px"
                   id="boximg"
-                />
+                <p>{item.Description.slice(0,100)+"..."}</p>
                 <div id="Description2">
                 <h2>{item.Title}</h2>
-                  <p>{item.Description.slice(0,110)+"..."}</p>
+              
                 </div>
                 </NavLink>
               </div>
