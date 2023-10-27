@@ -118,14 +118,14 @@ function Links(){
    </p>
     
   </div>
-  <div className="pro-mediaicon">
+  {/* <div className="pro-mediaicon">
                   <h3>Follow us:</h3> 
                   
                   <NavLink id="iconlink"><i className="fa-brands fa-square-instagram" to="https://www.instagram.com/"></i></NavLink>
                    <NavLink id="iconlink"><i className="fa-brands fa-linkedin"></i></NavLink>
                    <NavLink id="iconlink"><i className="fa-brands fa-facebook"></i></NavLink>
                    <NavLink id="iconlink"><i className="fa-brands fa-github"></i></NavLink>
-          </div>
+          </div> */}
           
           </div>
 </footer>
